@@ -6,10 +6,10 @@ Certainly! I understand now. Here's the updated table with the format you specif
 
 | Task                           | File          | Time Complexity Notations                                      |
 |--------------------------------|---------------|-----------------------------------------------------------------|
-| [Bubble sort](#bubble-sort)    | [0-bubble_sort.c](./0-bubble_sort.c) | 0-O:<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
-| [Insertion sort](#insertion-sort) | [1-insertion_sort_list.c](./1-insertion_sort_list.c) | 1-O:<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
-| [Selection sort](#selection-sort) | [2-selection_sort.c](./2-selection_sort.c) | 2-O:<br> O(n^2)  // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
-| [Quick sort](#quick-sort)      | [3-quick_sort.c](./3-quick_sort.c) | 3-O:<br> O(nlog(n)) // Best case<br> O(nlog(n))  // Average case<br> O(n^2) // Worst case  |
+| [Bubble sort](#bubble-sort)    | [0-bubble_sort.c](./0-bubble_sort.c) | ``0-O:``<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| [Insertion sort](#insertion-sort) | [1-insertion_sort_list.c](./1-insertion_sort_list.c) | ``1-O:``<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| [Selection sort](#selection-sort) | [2-selection_sort.c](./2-selection_sort.c) | ``2-O:``<br> O(n^2)  // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| [Quick sort](#quick-sort)      | [3-quick_sort.c](./3-quick_sort.c) | ``3-O:``<br> O(nlog(n)) // Best case<br> O(nlog(n))  // Average case<br> O(n^2) // Worst case  |
 
 This format now includes the file name before the time complexity notations for each task.
 
