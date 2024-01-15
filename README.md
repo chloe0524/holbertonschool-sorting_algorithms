@@ -2,13 +2,11 @@
 
 ## Table of Contents
 
-1. [C - Sorting algorithms & Big O](#c---sorting-algorithms--big-o)
     - [Task 0: Bubble sort](#0-bubble-sort)
     - [Task 1: Insertion sort](#1-insertion-sort)
     - [Task 2: Selection sort](#2-selection-sort)
     - [Task 3: Quick sort](#3-quick-sort)
 
----
 
 ### :small_orange_diamond: Task 0: Bubble sort
 
