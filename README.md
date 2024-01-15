@@ -9,7 +9,7 @@
 
 | Task                           | File          | Time Complexity Notations                                      |
 |--------------------------------|---------------|-----------------------------------------------------------------|
-| [Bubble sort](#small_orange_diamond-task-0-bubble-sort)    | [0-bubble_sort.c](./0-bubble_sort.c) | [0-O](https://github.com/chloe0524/holbertonschool-sorting_algorithms/blob/main/0-O):<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| [Bubble sort](#small_orange_diamond-task-0-bubble-sort)    | [0-bubble_sort.c](./0-bubble_sort.c) | [``0-O``](https://github.com/chloe0524/holbertonschool-sorting_algorithms/blob/main/0-O):<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
 | [Insertion sort](#small_orange_diamond-task-1-insertion-sort) | [1-insertion_sort_list.c](https://github.com/chloe0524/holbertonschool-sorting_algorithms/blob/main/1-insertion_sort_list.c) | [1-O](https://github.com/chloe0524/holbertonschool-sorting_algorithms/blob/main/1-O):<br> O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
 | [Selection sort](#small_orange_diamond-task-2-selection-sort) | [2-selection_sort.c](./2-selection_sort.c) | [2-O](./2-O):<br> O(n^2)  // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
 | [Quick sort](#small_orange_diamond-task-3-quick-sort)      | [3-quick_sort.c](./3-quick_sort.c) | [3-O](./3-O):<br> O(nlog(n)) // Best case<br> O(nlog(n))  // Average case<br> O(n^2) // Worst case  |
