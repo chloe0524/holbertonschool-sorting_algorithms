@@ -1,5 +1,5 @@
 
-![ezgif-4-499e87d5ad](https://github.com/chloe0524/holbertonschool-sorting_algorithms/assets/127857895/3e9cedba-0cba-4cef-816d-bca4f91f3e1f)
+![ezgif-4-2dd4ba8237 (1)](https://github.com/chloe0524/holbertonschool-sorting_algorithms/assets/127857895/3b4c6097-c4e8-4345-9eec-b9f4bc46162c)
 
 ## :alarm_clock: C - Sorting algorithms & Big O
 
