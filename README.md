@@ -1,7 +1,7 @@
 
 ![ezgif-4-2dd4ba8237 (1)](https://github.com/chloe0524/holbertonschool-sorting_algorithms/assets/127857895/3b4c6097-c4e8-4345-9eec-b9f4bc46162c)
 
-# :large_orange_diamond: C - Sorting algorithms & Big O :large_orange_diamond:
+# :large_orange_diamond: C - Sorting algorithms & Big O
 *by Chloe & Clement*
 
 ## :clipboard: Table of Contents
