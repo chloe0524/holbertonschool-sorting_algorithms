@@ -2,7 +2,6 @@
 
 # Table of Contents
 
-Certainly! I understand now. Here's the updated table with the format you specified:
 
 | Task                           | File          | Time Complexity Notations                                      |
 |--------------------------------|---------------|-----------------------------------------------------------------|
