@@ -2,6 +2,8 @@
 #define SORT_HEADER_H
 
 #include <stddef.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 /* DATA STRUCTURE */
 
@@ -14,9 +16,9 @@
  */
 typedef struct listint_s
 {
-    const int n;
-    struct listint_s *prev;
-    struct listint_s *next;
+	const int n;
+	struct listint_s *prev;
+	struct listint_s *next;
 } listint_t;
 
 /* PROTOTYPES */
