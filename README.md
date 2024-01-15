@@ -8,6 +8,12 @@
 4. [Quick sort](#quick-sort)
 
 ---
+| File                   | Time Complexity Notations                                      |
+|------------------------|-----------------------------------------------------------------|
+| `0-O` (Bubble Sort)    | O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| `1-O` (Insertion Sort) | O(n)    // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| `2-O` (Selection Sort) | O(n^2)  // Best case<br> O(n^2)  // Average case<br> O(n^2)  // Worst case  |
+| `3-O` (Quick Sort)     | O(nlog(n)) // Best case<br> O(nlog(n))  // Average case<br> O(n^2) // Worst case  |
 
 ### :small_orange_diamond: Task 0: Bubble sort
 
