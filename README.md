@@ -1,6 +1,4 @@
 
-https://github.com/chloe0524/holbertonschool-sorting_algorithms/assets/127857895/7f26aac4-ac76-4e18-bff5-7172e854947f
-
 ## :alarm_clock: C - Sorting algorithms & Big O
 
 # Table of Contents
