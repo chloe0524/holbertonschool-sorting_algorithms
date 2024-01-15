@@ -3,7 +3,7 @@
 
 ## :large_orange_diamond: C - Sorting algorithms & Big O :large_orange_diamond:
 
-# :clipboard: Table of Contents
+## :clipboard: Table of Contents
 
 
 | Task                           | File          | Time Complexity Notations                                      |
