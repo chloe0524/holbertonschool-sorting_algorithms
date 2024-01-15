@@ -1,7 +1,7 @@
-#ifndef SORT_HEADER
-#define SORT_HEADER
+#ifndef SORT_HEADER_H
+#define SORT_HEADER_H
 
-/* placeholder: includes */
+#include <stddef.h>
 
 /* DATA STRUCTURE */
 
@@ -29,3 +29,4 @@ void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
 void quick_sort(int *array, size_t size);
 
+#endif /* SORT_HEADER_H */
