@@ -1,12 +1,13 @@
 ## :alarm_clock: C - Sorting algorithms & Big O
 
-## Table of Contents
+# Table of Contents
 
-    - [Task 0: Bubble sort](#0-bubble-sort)
-    - [Task 1: Insertion sort](#1-insertion-sort)
-    - [Task 2: Selection sort](#2-selection-sort)
-    - [Task 3: Quick sort](#3-quick-sort)
+1. [Bubble sort](#bubble-sort)
+2. [Insertion sort](#insertion-sort)
+3. [Selection sort](#selection-sort)
+4. [Quick sort](#quick-sort)
 
+---
 
 ### :small_orange_diamond: Task 0: Bubble sort
 
