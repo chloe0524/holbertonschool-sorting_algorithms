@@ -8,9 +8,6 @@
  */
 void quick_sort(int *array, size_t size)
 {
-	if (array == NULL || size < 2)
-		return;
-
 	quick_sort_recursive(array, 0, size - 1, size);
 }
 
@@ -43,46 +40,33 @@ void quick_sort_recursive(int *array, int low, int high, size_t size)
  * @size: Size of the array
  * Return: Index of the pivot after partitioning
  */
+
 int lomuto_partition(int *array, int low, int high, size_t size)
 {
-	int i = 0, j = 0;
-	int pivot = 0;
+	int i = low, j, pivot = array[high], temp;
 
-	i = low - 1;
-	pivot = array[high];
-
-	for (j = low; j <= high - 1; j++)
+	for (j = low; j < high; j++)
 	{
 		if (array[j] < pivot)
 		{
-			i++;
-			if (i != j)
-			{
-				swap(array, i, j);
+			temp = array[i];
+			array[i] = array[j];
+			array[j] = temp;
+
+			if (temp != array[i])
 				print_array(array, size);
-			}
+
+			++i;
 		}
 	}
-	if (array[i + 1] != array[high])
-	{
-		swap(array, i + 1, high);
+
+	temp = array[i];
+	array[i] = array[high];
+	array[high] = temp;
+
+	if (temp != array[i])
 		print_array(array, size);
-	}
-	return (i + 1);
+
+	return (i);
 }
 
-/**
- * swap - Swaps two integers
- *
- * @array: array of ints
- * @a: Pointer to the first integer
- * @b: Pointer to the second integer
- */
-void swap(int *array, int a, int b)
-{
-	int temp = 0;
-
-	temp = array[a];
-	array[a] = array[b];
-	array[b] = temp;
-}
